@@ -1,3 +1,5 @@
-theme: jekyll-theme-minimal
+remote_theme: pages-themes/cayman@v0.2.0
+plugins:
+- jekyll-remote-theme
 title: Matthew-P Rogers' Homepage
-description: Description here
+description: To be added later
