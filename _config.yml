@@ -27,5 +27,4 @@ defaults:
       path: ""
       type: post
     values:
-     -show_sidebar: true
       tags: Other
