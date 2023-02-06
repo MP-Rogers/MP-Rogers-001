@@ -1,7 +1,6 @@
 ---
 title: "First-Post"
 date: 2023-02-05
-layout: blog
 author: MP Rogers
 ---
 # Welcome
