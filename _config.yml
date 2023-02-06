@@ -1,11 +1,13 @@
 title: MP's Website
 author: Matthew-P Rogers
+
 #remote_theme: chrisrhymes/bulma-clean-theme
 theme: minima
 plugins:
 - jekyll-remote-theme
 - jekyll-feed
 - jekyll-sitemap
+
 description: MP's Wesbite idea...in its early stages
 email: matthewpierrerogers@gmail.com
 twitter_username: "@Rogers_M_P"
