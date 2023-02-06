@@ -23,12 +23,9 @@ titles_from_headings:
   
 
 defaults:
-  - 
-  scope:
+  - scope:
       path: ""
-      type: pages
+      type: post
     values:
-       show_sidebar: true
-
+     -show_sidebar: true
       tags: Other
-     
