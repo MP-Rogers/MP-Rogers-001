@@ -23,7 +23,8 @@ titles_from_headings:
   
 
 defaults:
-  - scope:
+  - 
+  scope:
       path: ""
       type: pages
     values:
