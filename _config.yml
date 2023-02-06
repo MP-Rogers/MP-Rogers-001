@@ -7,7 +7,7 @@ plugins:
 - jekyll-sitemap
 description: MP's Wesbite idea...in its early stages
 email: matthewpierrerogers@gmail.com
-twitter_username: @Rogers_M_P
+twitter_username: "@Rogers_M_P"
  
 
 titles_from_headings:
