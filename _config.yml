@@ -1,6 +1,6 @@
 title: MP's Website
 author: Matthew-P Rogers
-remote_theme: pages-themes/cayman@v0.2.0
+remote_theme: chrisrhymes/bulma-clean-theme
 plugins:
 - jekyll-remote-theme
 description: MP's Wesbite idea...in its early stages
