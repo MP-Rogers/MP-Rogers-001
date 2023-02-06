@@ -4,3 +4,5 @@ remote_theme: chrisrhymes/bulma-clean-theme
 plugins:
 - jekyll-remote-theme
 description: MP's Wesbite idea...in its early stages
+email: matthewpierrerogers@gmail.com
+twitter_username: @Rogers_M_P
