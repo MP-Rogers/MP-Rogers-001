@@ -1,4 +1,6 @@
 title: MP's Website
 author: Matthew-P Rogers
-theme: cerulean
+plugins: 
+- jekyll-remote-theme
+theme: Cayman
 description: MP's Wesbite idea...in its early stages
