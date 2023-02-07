@@ -18,7 +18,7 @@ I had a couple of reasons for starting this originally.
 So now, I hopefully stay consistent. I should keep learning, keep updating and improving,
 until this becomes a little MP Journal.
 
-![Me on a beach with snorkel gear]("https://github.com/MP-Rogers/MP-Rogers.github.io/blob/5b9165f6f1193a230abaa1ee495c105f24c68f89/docs/assets/images/IMG-20230102-WA0023.jpg")
+![Me on a beach with snorkel gear]("https://github.com/MP-Rogers/MP-Rogers.github.io/blob/main/docs/assets/images/IMG-20230102-WA0023.jpg")
 
 
 # Stay Tuned
