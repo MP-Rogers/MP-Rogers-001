@@ -18,11 +18,10 @@ I had a couple of reasons for starting this originally.
 So now, I hopefully stay consistent. I should keep learning, keep updating and improving,
 until this becomes a little MP Journal.
 
-**The image with makrdown**
-![Me at a beach with snorkel gear](post-images/BeachWithGear.jpg)
+**The image with markdown, not working on website**
 ![Me at a beach with snorkel gear](/docs/assets/images/BeachWithGear.jpg)
 
-**The same image but with html**
+**The same image but with html, currently doesnt work**
 <img src="docs/assets/images/BeachWithGear.jpg" alt ="Me At a beach">
 
 
