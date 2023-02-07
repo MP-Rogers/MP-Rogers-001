@@ -1,12 +1,12 @@
 title: MP's Website
 author: Matthew-P Rogers
 
-#remote_theme: chrisrhymes/bulma-clean-theme
+remote_theme: chrisrhymes/bulma-clean-theme
 #only if using bulma
-#paginate: 5
-#paginate_path: "/blog/page:num"
+paginate: 5
+paginate_path: "/blog/page:num"
 
-theme: minima
+#theme: minima
 plugins:
 - jekyll-remote-theme
 - jekyll-feed
