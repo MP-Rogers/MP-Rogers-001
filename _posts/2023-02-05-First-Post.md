@@ -20,7 +20,7 @@ until this becomes a little MP Journal.
 
 
 ![Me at a beach with snorkel gear](":/docs/assets/images/IMG-20230102-WA0023.jpg")
-<img src="https://github.com/MP-Rogers/MP-Rogers.github.io/blob/main/docs/assets/images/IMG-20230102-WA0023.jpg" >
+<img src="https://github.com/MP-Rogers/MP-Rogers.github.io/blob/main/docs/assets/images/IMG-20230102-WA0023.jpg" alt ="Me At a beach">
 
 
 # Stay Tuned
