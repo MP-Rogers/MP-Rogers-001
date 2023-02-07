@@ -19,7 +19,7 @@ So now, I hopefully stay consistent. I should keep learning, keep updating and i
 until this becomes a little MP Journal.
 
 **The image with makrdown**
-![Me at a beach with snorkel gear]("docs/assets/images/BeachWithGear.jpg")
+![Me at a beach with snorkel gear]("_posts/post-images/BeachWithGear.jpg")
 
 **The same image but with html**
 <img src="docs/assets/images/BeachWithGear.jpg" alt ="Me At a beach">
