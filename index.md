@@ -7,6 +7,7 @@ title: Home
   I'm looking forward to it. In Particular, I plan to be sharing some of my marine nerdiness, and some analysis on little things I find interesting.
   I'll be building this website out, bit by bit, and learning as I go. Glad to have anyone reading along for the journey.
 
+![Me on a dive in Montego Bay, Jamaica](_images/PRCM9724.jpg)
 
 
  
