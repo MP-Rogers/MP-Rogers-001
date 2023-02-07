@@ -18,6 +18,6 @@ I had a couple of reasons for starting this originally.
 So now, I hopefully stay consistent. I should keep learning, keep updating and improving,
 until this becomes a little MP Journal.
 
-<img src="docs/assets/images/PRCM9724.jpg"  width="600" height="300">
+<img src="https://github.com/MP-Rogers/MP-Rogers.github.io/blob/39f708312eb1d46f99b06f7d8269f9983df95ac0/docs/assets/images/PRCM9724.jpg"  width="600" height="300">
 
 # Stay Tuned
