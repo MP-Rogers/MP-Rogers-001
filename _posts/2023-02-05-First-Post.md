@@ -18,7 +18,7 @@ I had a couple of reasons for starting this originally.
 So now, I hopefully stay consistent. I should keep learning, keep updating and improving,
 until this becomes a little MP Journal.
 
-<img src ="./docs/assets/images/IMG-20230102-WA0023.jpg" alt="Me with snorkel gear">
+
 
 
 
