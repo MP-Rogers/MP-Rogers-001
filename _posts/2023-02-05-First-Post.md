@@ -19,6 +19,7 @@ So now, I hopefully stay consistent. I should keep learning, keep updating and i
 until this becomes a little MP Journal.
 
 
+![Me at beach](":/docs/assets/images/IMG-20230102-WA0023.jpg")
 
 
 
