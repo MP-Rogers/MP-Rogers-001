@@ -1,3 +1,8 @@
+---
+title: About Me
+layout: post
+---
+
 # Get to Know Me
 
 My name is Matthew-Pierre Rogers, but you'll see MP around this site.
