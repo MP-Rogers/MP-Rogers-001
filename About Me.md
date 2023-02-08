@@ -1,6 +1,6 @@
 ---
 title: About Me
-layout: post
+
 ---
 
 # Get to Know Me
