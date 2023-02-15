@@ -1,7 +1,8 @@
 ---
 type: post
 tags: 
-date: 20/02/2023
+title: A Trip to Bowden Bay
+date: 15/02/2023
 ---
 # A Trip to Bowden Bay
 
