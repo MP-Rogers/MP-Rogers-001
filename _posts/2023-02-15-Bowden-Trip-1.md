@@ -12,9 +12,9 @@ So about a week ago, on February 11, 2023, I went on a dive trip with my team at
 At Kee Farms, to put it simply, we grow marine products like seaweed. However, we are still in the learning process. Our first batch of seaweed was depleted. So we needed a new starting crop to start growing. This meant taking a team out into the wild to find and gather some wild seaweed.
 Ideally, we wanted the same species of seaweed we had been growing before. Right now, we are focusing on a red seaweed known as *Gracilaria* . *Gracilaria* is a useful and popular red seaweed. Different species of *Gracilaria* are grown in other parts of the world. Here in Jamaica, we call it "irish moss" and traditionally for it, but our company is among the first to farm it. Here you can see some of the *Gracilaria* from our first round of collection dives. This specific species is called *Gracilaria domingensis*.
       
-![Gracilaria](docs/assets/images/Gracilaria D on beach.jpeg)
+![Gracilaria](/docs/assets/images/Gracilaria D on beach.jpeg)
       
-![Gracilaria](docs/assets/images/Gracilaria D on Hand.jpeg)
+![Gracilaria](/docs/assets/images/Gracilaria D on Hand.jpeg)
       
 
 ## The Start
@@ -28,7 +28,7 @@ But as the leader for the last dive, my team and I made sure we analyzed our los
   
 So this time, we left out at 4:30 am. So after a wonderful 4 hours  of sleep, we got driving. A contact had advised us of a new dive site. The drive was long, but they had done some paving on the roads. It wasn't great, but I could see the improvement. We got to see some nice views on the ride down. Jamaica, especially the parish of Portland, is a beautiful place. Escpecially if you're like me and **love** the sea and sea views.
   
-![sunrise](docs/assets/images/sunrise.jpeg)
+![sunrise](/docs/assets/images/sunrise.jpeg)
   
 We kept driving and arrived around 8am. And then after stretching our legs, we got to work.
 
@@ -37,7 +37,7 @@ Once we arrived, our guide led us out into the bay, we were expecting shallow wa
 
 We talked to some locals who told us how there was plenty of another kind of irish moss nearby and showed us the site. We loaded up our truck, and got moving.
 
-![Me at the site](docs/assets/images/Me at site.jpeg)
+![Me at the site](/docs/assets/images/Me at site.jpeg)
 
 ## The Return
 
