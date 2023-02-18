@@ -1,9 +1,9 @@
 ---
 type: post
 tags: 
-- Kee Farms
-- Marine Biology
-- Diving
+- kee-farms
+- marine-biology
+- diving
 title: A Trip to Bowden Bay
 date: 15/02/2023
 ---
