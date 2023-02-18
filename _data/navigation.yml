@@ -1,7 +1,7 @@
 - name: Blog
   link: /blog/
 - name: Archive
-  link: _includes/archive.md/
+  link: _includes/archive.md
 #  dropdown: 
 #    - name: Page 2
 #      link: page-2
