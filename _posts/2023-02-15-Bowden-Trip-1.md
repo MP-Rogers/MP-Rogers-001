@@ -1,6 +1,9 @@
 ---
 type: post
 tags: 
+- Kee Farms
+- Marine Biology
+- Diving
 title: A Trip to Bowden Bay
 date: 15/02/2023
 ---
@@ -17,7 +20,8 @@ Ideally, we wanted the same species of seaweed we had been growing before. Right
 
 <img src="/docs/assets/images/GracilariaDinHand.jpeg" width ="350" height="200">
 
-![Gracilaria d on Beach](/docs/assets/images/GracilariaDonBeach.jpeg)
+<img src ="/docs/assets/images/GracilariaDonBeach.jpeg" width ="250" height ="150">
+
 
       
 
