@@ -28,3 +28,4 @@ defaults:
       type: post
     values:
       tags: Other
+      author: "MP Rogers"
