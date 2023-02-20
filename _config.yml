@@ -21,6 +21,7 @@ titles_from_headings:
   strip_title: true
   collections: true
   
+footer_menu: footer_menu
 
 defaults:
   - scope:
