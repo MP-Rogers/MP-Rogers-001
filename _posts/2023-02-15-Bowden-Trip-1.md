@@ -20,11 +20,13 @@ Ideally, we wanted the same species of seaweed we had been growing before. Right
 
 <div align="center">
 <img src="/docs/assets/images/GracilariaDinHand.jpeg" width ="350" height="300">
+  
 Some of the irish moss in hand
 </div>
 
 <div align="center">
-<img src ="/docs/assets/images/GracilariaDonBeach.jpeg" width ="250" height ="150">
+<img src ="/docs/assets/images/GracilariaDonBeach.jpeg" width ="350" height ="300">
+  
 Some of the Irish Moss on the beach from our first trip to White Horses
 </div>
 
@@ -33,9 +35,10 @@ Some of the Irish Moss on the beach from our first trip to White Horses
 ## The Start
 
 I'll be honest. I had mixed feelings about this trip to start. Our first batch of seaweed came from a site named White Horses in St. Thomas. Its called that because the waves crashing look like..well..white horses. In other words, the water gets pretty rough. The roads to and from that site are pretty rough in their own right. The first trip was pretty rough in its own right. The second trip to White Horses was even worse. That time, the other divers and I had gotten into a mess. We collected no seaweed and almost got ourselves seriously hurt. It was a textbook case of horrible conditions. Visibility was less than three feet, surge was rough and the current pushed us towards rocks with some serious force. 
-     
-     
-![A pic of white horses](/docs/assets/images/whitehorses.jpeg)
+
+<div align="center">
+<img src ="/docs/assets/images/whitehorses.jpeg" width ="450" height =350">
+</div>
      
 But as the leader for the last dive, my team and I made sure we analyzed our loss(after a beer) ad figured out what we could do better. One of the major steps was to reach our dive site early, before the water picked up for the day. We had tried to reach early on the previous trip, but due to circumstances, we didnt reach until 1pm, when the sea was already rough.
   
@@ -49,6 +52,7 @@ We kept driving and arrived around 8am. And then after stretching our legs, we g
 Once we arrived, our guide led us out into the bay, we were expecting shallow water, maybe only 10, 20 feet, but to our surprise it was knee height. The sediment was muddy, and visibility was basically nothing(and yet somehow still better than white horses.) We could feel down and pull up the seaweed. It was another *Gracilaria* species, but we were more than happy to take it. We didnt need our Scuba gear, so we set it to float at the surface. It helped keep our collection bags off the bottom as well. Then we went gathering up the irish moss. We talked and joked about crocs coming for us while we harvested. It had one of the divers so wound up she jumped at a fish, thinking it was a croc. Eventually the team, after a little more than an hour and a half, made our way back into shore.
 
 We talked to some locals who told us how there was plenty of another kind of irish moss nearby and showed us the site. We loaded up our truck, and got moving.
+
 
 ![Me at the site](/docs/assets/images/MeAtBowden.jpeg)
 
