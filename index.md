@@ -22,6 +22,16 @@ Welcome. Glad to have you along for the ride
 
 ![Me on a dive in Montego Bay, Jamaica](docs/assets/images/PRCM9724.jpg)
 
+## And some navigation
+
+<p>These are the categories for all blog posts:</p>
+<ul>
+{% for category in site.categories %}
+<li><a href="{{ site.url }}/jekyll/category/{{ category | first | url_encode }}/index.html">{{ category | first }}</a></li>
+{% endfor %}
+</ul>
+<p>They link to the corresponding index pages!</p>
+
 
 
  
