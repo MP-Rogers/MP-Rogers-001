@@ -1,5 +1,6 @@
 ---
 type: post
+categories: [Marine Biology, Kee Farms, Diving]
 tags: 
 - kee-farms
 - marine-biology
