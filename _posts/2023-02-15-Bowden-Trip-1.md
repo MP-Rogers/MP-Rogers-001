@@ -18,11 +18,11 @@ At Kee Farms, to put it simply, we grow marine products like seaweed. However, w
 Ideally, we wanted the same species of seaweed we had been growing before. Right now, we are focusing on a red seaweed known as *Gracilaria* . *Gracilaria* is a useful and popular red seaweed. Different species of *Gracilaria* are grown in other parts of the world. Here in Jamaica, we call it "irish moss" and traditionally for it, but our company is among the first to farm it. Here you can see some of the *Gracilaria* from our first round of collection dives. This specific species is called *Gracilaria domingensis*.
       
 
-
-<img src="/docs/assets/images/GracilariaDinHand.jpeg" width ="350" height="200">
+<div align="center">
+<img src="/docs/assets/images/GracilariaDinHand.jpeg" width ="200" height="350">
 
 <img src ="/docs/assets/images/GracilariaDonBeach.jpeg" width ="250" height ="150">
-
+</div>
 
       
 
