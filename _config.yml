@@ -7,7 +7,7 @@ remote_theme: chrisrhymes/bulma-clean-theme
 paginate: 5
 paginate_path: "/blog/page:num"
 
-category_path: "/category"
+category_path: "categories/:cat"
 category_layout: "category_index.html"
 
 # theme: minima
