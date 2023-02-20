@@ -19,9 +19,13 @@ Ideally, we wanted the same species of seaweed we had been growing before. Right
       
 
 <div align="center">
-<img src="/docs/assets/images/GracilariaDinHand.jpeg" width ="200" height="350">
+<img src="/docs/assets/images/GracilariaDinHand.jpeg" width ="350" height="300">
+Some of the irish moss in hand
+</div>
 
+<div align="center">
 <img src ="/docs/assets/images/GracilariaDonBeach.jpeg" width ="250" height ="150">
+Some of the Irish Moss on the beach from our first trip to White Horses
 </div>
 
       
