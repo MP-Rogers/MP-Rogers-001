@@ -5,6 +5,7 @@ tags:
 - marine-biology
 - diving
 title: A Trip to Bowden Bay
+image: /docs/assets/images/MeAtBowden.jpeg
 date: 15/02/2023
 ---
 # A Trip to Bowden Bay
